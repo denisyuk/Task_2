@@ -14,7 +14,7 @@ using namespace std;
 #define MAX_YEAR				(CYear)2013	//maximum year
 
 typedef unsigned char	CLoop;		//uses by loop "for"
-typedef	signed	 char	CText;		//uses as simple text
+typedef		 char	CText;		//uses as simple text
 typedef unsigned char	CAuthor;	//uses for author name
 typedef unsigned char	CBookName;	//uses for book name
 typedef unsigned char	CEdition;	//uses for edition name
